@@ -1,0 +1,5 @@
+Category,Human_Validated_Baseline,New_SOTA_Recommendation,SOTA_Justification_and_Data
+Writing/Creative,Claude-v1 (Best Style),Claude 3.7 Sonnet / GPT-5.1,"Anthropic models still excel at coherent, safe, and long-form human-like dialogue, maintaining their lead in stylistic preference."
+Coding/Agentic,GPT-3.5-turbo (Best Value),Gemini 3 Pro / Claude 3.7 Sonnet,"Gemini 3 Pro leads LiveCodeBench Elo (2,439). Claude 3.7 Sonnet has superior real-world performance on SWE-Bench."
+Reasoning/Math,GPT-4 (Highest Win-Rate),Gemini 3 Pro,"Gemini 3 Pro leads in novel reasoning (ARC-AGI-2) and symbolic math (AIME), making it the technical SOTA."
+Extraction & STEM,GPT-4 (Highest Win-Rate),GPT-5.1 / Gemini 3 Pro,GPT-5.1 shows strong general performance (GPQA 88.1%). Gemini 3 Pro excels due to native multimodality (diagrams/charts).
