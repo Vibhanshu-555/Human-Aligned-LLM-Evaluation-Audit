@@ -85,13 +85,13 @@ For each model × category pair:
 
 ## 📊 Final Deliverable
 
-A **three-page evaluation audit [dashboard](../dashboard/Human_Aligned_LLM_Evaluation_Audit.pbix)** designed for decision-makers:
+A **three-page evaluation audit [dashboard](../dashboard/Human_Aligned_LLM_Evaluation_Audit.pdf)** designed for decision-makers:
 
 | Page | Focus | Key Question Answered |
 |------|-------|---------------------|
-| 1️⃣ [**AI Judge Bias**](../dashboard/Page_1_The_Crisis.png) | Misalignment & bias mapping | *Where and why does AI judgment fail?* |
-| 2️⃣ [**Human-Validated Baseline**](../dashboard/Page_2_The_Solution.png) | True performance rankings by task | *What do humans prefer and trust?* |
-| 3️⃣ [**Human + SOTA Recommendations**](../dashboard/Page_3_The_Conclusion.png) | Actions based on updated market reality | *Which model is best for each task now?* |
+| 1️⃣ [**AI Judge Bias**](../assets/Page_1_The_Crisis.png) | Misalignment & bias mapping | *Where and why does AI judgment fail?* |
+| 2️⃣ [**Human-Validated Baseline**](../assets/Page_2_The_Solution.png) | True performance rankings by task | *What do humans prefer and trust?* |
+| 3️⃣ [**Human + SOTA Recommendations**](../assets/Page_3_The_Conclusion.png) | Actions based on updated market reality | *Which model is best for each task now?* |
 
 This structure forms a complete narrative:
 > **Problem → Solution → Conclusion**
