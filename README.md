@@ -64,7 +64,9 @@ Organizations rely on these scores for **model selection, deployment decisions, 
 
 These insights show that disagreement is **not random**, it is task-driven and increases as complexity increases.
 
-![](./assets/Page_1_The_Crisis.png)
+<p>
+  <img src = './assets/Page_1_The_Crisis.png'>
+</p>
 
 ---
 
